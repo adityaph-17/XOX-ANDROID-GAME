@@ -64,8 +64,8 @@ XOX Android Game is a simple yet engaging Tic Tac Toe application where users ca
 
 ## 👨‍💻 Developer
 
-Developed by **Aditya** **Halne**
-Android Developer | Java Enthusiast
+Developed by **Aditya** **Halne** |
+Android Development |
 
 ---
 
