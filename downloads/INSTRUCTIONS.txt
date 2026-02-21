@@ -7,7 +7,7 @@ STEP 1: Open GitHub Link
 ----------------------------------------
 1. Open Google Chrome on your Android device.
 2. Visit the GitHub repository link provided.
-
+👉🏻 https://github.com/adityaph-17/XOX-Android-Game/edit/main/downloads/
 
 ----------------------------------------
 STEP 2: Navigate to Downloads Folder
