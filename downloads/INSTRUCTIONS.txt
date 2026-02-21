@@ -1,0 +1,58 @@
+XOX Android Game – APK Download & Installation Guide
+
+Follow the steps below to download and install the app on your Android device using GitHub and Chrome browser.
+
+----------------------------------------
+STEP 1: Open GitHub Link
+----------------------------------------
+1. Open Google Chrome on your Android device.
+2. Visit the GitHub repository link provided.
+
+
+----------------------------------------
+STEP 2: Navigate to Downloads Folder
+----------------------------------------
+1. Scroll down to the "downloads" folder.
+2. Tap on the folder to open it.
+3. Tap on the APK file (e.g., XOX-Game-v1.0.apk).
+
+----------------------------------------
+STEP 3: Download the APK
+----------------------------------------
+1. Tap the "Download" button.
+2. If Chrome shows a warning like:
+   "This file may be harmful"
+   Tap "Download anyway".
+   (This is normal for APK files downloaded outside Play Store.)
+
+----------------------------------------
+STEP 4: Enable Install from Unknown Sources
+----------------------------------------
+If prompted:
+
+1. Tap "Settings".
+2. Enable "Allow from this source" for Chrome.
+3. Go back to the APK file.
+
+----------------------------------------
+STEP 5: Install the App
+----------------------------------------
+1. Tap "Install".
+2. Wait for installation to complete.
+3. Tap "Open" to launch the app.
+
+----------------------------------------
+Important Notes:
+----------------------------------------
+• This application does NOT require any special device permissions.
+• The APK file is safe to install.
+• If installation fails, ensure:
+  - Storage permission is allowed
+  - Unknown sources is enabled
+  - Android version is compatible
+
+----------------------------------------
+Security Disclaimer:
+----------------------------------------
+This application is provided as-is for educational and demonstration purposes.
+The developer is not responsible for misuse, modification, or distribution of the APK file.
