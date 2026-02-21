@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XOX Game</string>
+    <string name="player_x_turn">Player X Turn</string>
+    <string name="reset_game">Reset Game</string>
+</resources>

@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Local config
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Generated release files
+app/release/
+.externalNativeBuild/
+.cxx/
+
+# APK/AAB (ignore everywhere)
+*.apk
+*.aab
+
+# Allow APK only inside downloads folder
+!downloads/*.apk
+
+# Test folders (optional)
+app/src/androidTest/
+app/src/test/
